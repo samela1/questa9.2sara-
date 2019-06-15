@@ -1,0 +1,11 @@
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\obj\Debug\netcoreapp2.1\atividade9.2.csprojAssemblyReference.cache
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\obj\Debug\netcoreapp2.1\atividade9.2.csproj.CoreCompileInputs.cache
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\obj\Debug\netcoreapp2.1\atividade9.2.AssemblyInfoInputs.cache
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\obj\Debug\netcoreapp2.1\atividade9.2.AssemblyInfo.cs
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\bin\Debug\netcoreapp2.1\atividade9.2.deps.json
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\bin\Debug\netcoreapp2.1\atividade9.2.runtimeconfig.json
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\bin\Debug\netcoreapp2.1\atividade9.2.runtimeconfig.dev.json
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\bin\Debug\netcoreapp2.1\atividade9.2.dll
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\bin\Debug\netcoreapp2.1\atividade9.2.pdb
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\obj\Debug\netcoreapp2.1\atividade9.2.dll
+C:\Users\Solange\Documents\aqui\atividade9.2\atividade9.2\obj\Debug\netcoreapp2.1\atividade9.2.pdb
